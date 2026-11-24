@@ -1,0 +1,39 @@
+{
+    "name": "Mano Agency — Shop Inventory & Billing",
+    "short_name": "Mano Agency",
+    "id": "/",
+    "start_url": "/",
+    "scope": "/",
+    "display": "standalone",
+    "display_override": ["window-controls-overlay", "standalone", "minimal-ui"],
+    "background_color": "#F5F7F3",
+    "theme_color": "#1F6B45",
+    "description": "Manage shop stock, create bills, import Excel sheets and print invoices.",
+    "orientation": "any",
+    "prefer_related_applications": false,
+    "categories": ["business", "finance", "productivity"],
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}

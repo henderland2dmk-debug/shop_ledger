@@ -1,0 +1,4 @@
+# Netlify / Cloudflare Pages single-page app fallback.
+# Existing files are served first; unknown paths load the Flutter app shell.
+
+/* /index.html 200
